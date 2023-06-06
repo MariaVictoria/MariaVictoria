@@ -2,8 +2,6 @@
     <img src="https://giphy.com/embed/z2KbVZxKCHxxIDhnsQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 <p>
-    <a href="https://giphy.com/gifs/Veeam-it-programming-veeam-z2KbVZxKCHxxIDhnsQ">via GIPHY</a></p>
-
 
     <h2> align = "center"> Hi there 👋, I'm María Victoria </h2>
 <a
@@ -23,7 +21,7 @@
 <div id= "header" align ="center">
     <img src="https://giphy.com/embed/436hhtZJQAT86nomhG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
 </div>
-<p><a href="https://giphy.com/gifs/Veeam-developing-programing-veeam-436hhtZJQAT86nomhG">via GIPHY</a></p>
+
 
 
 Here I leave you the project we are working on for my Amigurumi store:
