@@ -18,8 +18,7 @@
 </h4>
 </div>
 
-<div id= "header" align ="center">
-    <img src="https://giphy.com/embed/436hhtZJQAT86nomhG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
+<div <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/z2KbVZxKCHxxIDhnsQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Veeam-it-programming-veeam-z2KbVZxKCHxxIDhnsQ">via GIPHY</a></p>
 </div>
 
 
