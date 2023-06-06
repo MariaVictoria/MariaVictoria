@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/436hhtZJQAT86nomhG/giphy.gif" width="30%">
-  <h2 style="Bold">Hi there 👋, I'm María Victoria</h2>
+  <h2 style="font-weight: bold;">Hi there 👋, I'm María Victoria</h2>
 </div>
 
 <div>
@@ -10,17 +10,26 @@
 <h4>
   <p>- 🔭 I'm currently studying programming.</p>
   <p>- 🌱 I'm currently learning Full Stack Development Python at Codo a Codo; Web Development and Design and development of Web Apps at ISPC; Python and Data Science & AI at Argentina Programa.</p>
-  <p>- 👯 I’m looking to collaborate on trainnee projects</p>
-  <p>-⚡ Fun fact: I'm loving this programming world</p>
+  <p>- 👯 I’m looking to collaborate on trainee projects.</p>
+  <p>- ⚡ Fun fact: I'm loving this programming world.</p>
 </h4>
 
-<div>
-  <a href="https://www.credly.com/badges/4d7a5639-98a7-4503-a663-90a755213bf5/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/4a20d33b-7a5f-4019-9c13-8e3e682b9381/certified-associate.png" alt="Credly Badge" width="150" height="270">
-  </a>
+---
+
+<div id="header" align="left">
+  <span class="iconify" data-icon="eos-icons:machine-learning" data-inline="false"></span>
+  <h3> Languages & tools I'm Learning:</h3>
 </div>
 
 <div>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4d7a5639-98a7-4503-a663-90a755213bf5" data-share-badge-host="https://www.credly.com"></div>
-  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vsc" alt="vsc" width="40" height="40" /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40" /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40" /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40" /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40" /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40" /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40" /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/master/doc/_static/logo2_compressed.svg" title="matplotlib" alt="matplotlib" width="40" height="40" /> &nbsp;
 </div>
+
