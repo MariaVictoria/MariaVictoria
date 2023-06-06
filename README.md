@@ -1,4 +1,4 @@
-<h1> align = "center"> Hi there 👋, I'm María Victoria </h1>
+<h2> Hi there 👋, I'm María Victoria </h2>
 <a
     <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4d7a5639-98a7-4503-a663-90a755213bf5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
     
