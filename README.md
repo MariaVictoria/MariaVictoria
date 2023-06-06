@@ -9,7 +9,7 @@
 
 <h4>
   <p>- 🔭 I'm currently studying programming.</p>
-  <p>- 🌱 I'm currently learning Full Stack Development Python at Codo a Codo; Web Development and Design and development of Web Apps at ISPC; Python and Data Science & AI at Argentina Programa.</p>
+  <p>- 🌱 I'm currently learning Full Stack Development (Python) at Codo a Codo; Python and Data Science & AI at Argentina Programa; Higher Technician Degree in Innovation with 4.0 Technologies and Higher Technician Degree in Web Development and Digital Applications ant ISPC .</p>
   <p>- 👯 I’m looking to collaborate on trainee projects.</p>
   <p>- ⚡ Fun fact: I'm loving this programming world.</p>
 </h4>
