@@ -28,18 +28,30 @@
   <span class="iconify" data-icon="eos-icons:machine-learning" data-inline="false"></span>
   <h3> Languages & tools I'm Learning:</h3>
 </div>
-
 <div>
+  <!-- Python -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60" /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="60" height="60" /> &nbsp;
   <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/master/doc/_static/logo2_compressed.svg" title="Matplotlib" alt="Matplotlib" width="60" height="60" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="60" height="60" /> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="60" height="60" /> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="60" height="60" /> &nbsp;
+
+  <!-- JavaScript -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="60" height="60" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="60" height="60" /> &nbsp;
+
+  <!-- Vue.js -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="60" height="60" /> &nbsp;
+
+  <!-- Otros -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VS Code" width="60" height="60" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="60" height="60" /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="60" height="60" /> &nbsp; 
+
+  <!-- Git -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60" /> &nbsp;
 </div>
+
+
 
 
