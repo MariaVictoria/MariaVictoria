@@ -13,12 +13,11 @@
 <ul>
   <li>Full Stack Development (Python) at Codo a Codo ; </li>
   <li>Python and Data Science & AI at UNSAM-Argentina Programa ;</li>
-  <li>Higher Technician Degree in Innovation with 4.0 Technologies ;</li>
+  <li>Higher Technician Degree in Innovation with 4.0 Technologies at ISCP;</li>
   <li>Higher Technician Degree in Web Development and Digital Applications at ISCP;</li>
 </ul>
 
 
- 
   <p>- 👯 I’m looking to collaborate on trainee projects.</p>
   <p>- ⚡ Fun fact: I'm loving this programming world.</p>
 </h4>
