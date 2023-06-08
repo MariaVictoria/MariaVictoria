@@ -31,6 +31,7 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vsc" alt="vsc" width="60" height="60" /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="60" height="60" /> &nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python"  width="60" height="60" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas"width="60" height="60" /> &nbsp;
   <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/master/doc/_static/logo2_compressed.svg" title="matplotlib" alt="matplotlib"  width="60" height="60" /> &nbsp;
