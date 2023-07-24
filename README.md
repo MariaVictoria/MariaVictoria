@@ -32,7 +32,7 @@
   <!-- Python -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="60" height="60" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/master/doc/_static/logo2_compressed.svg" title="Matplotlib" alt="Matplotlib" width="60" height="60" /> &nbsp;
+  <img src="https://commons.wikimedia.org/wiki/File:Matplotlib_icon.svg#/media/File:Created_with_Matplotlib-logo.svg" title="Matplotlib" alt="Matplotlib" width="60" height="60" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="60" height="60" /> &nbsp;
 
   <!-- JavaScript -->
